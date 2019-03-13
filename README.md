@@ -4,7 +4,7 @@ This is a Udacity Robotic Software Engineer Nanodegree Project
 
 ## Writeup
 
-The entire project is explained in this writeup[writeup](https://github.com/Amay22/RoboND-Map-My-World/blob/master/RoboND_Map_My_World.pdf).
+The entire project is explained in this [writeup](https://github.com/Amay22/RoboND-Map-My-World/blob/master/RoboND_Map_My_World.pdf).
 
 ## RTAB-Map databases
 
